@@ -12,6 +12,6 @@ Abaixo você encontra o índice e conteúdo de cada aula:
 | Índice | README |
 | ------ | ------ |
 | 00 | [Back-end com Node.js](https://github.com/santiagoidu/GoStack11/tree/master/00-Backend-com-NodeJS) |
-| 01 | [Back-end com Node.js](https://github.com/santiagoidu/GoStack11/tree/master/01-Backend-com-ReactJS) |
+| 01 | [Fron-end com React.js](https://github.com/santiagoidu/GoStack11/tree/master/01-Backend-com-ReactJS) |
 
 <h2 align="center">Feito com ❤️ por <a href="http://github.com/santiagoidu">Marco Tulio Santiago</a></h2
