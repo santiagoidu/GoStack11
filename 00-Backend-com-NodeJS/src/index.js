@@ -46,7 +46,7 @@ function validateProject(request, response, next) {
 }
 
 app.use(logRequest)
-
+app.use('/projects/:id', validateProject)
 app.get('/projects', (request, response) => {
     // const { title, owner } = request.query
 
