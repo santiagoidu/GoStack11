@@ -13,5 +13,8 @@ Abaixo você encontra o índice e conteúdo de cada aula:
 | ------ | ------ |
 | 00 | [Back-end com Node.js](https://github.com/santiagoidu/GoStack11/tree/master/00-Backend-com-NodeJS) |
 | 01 | [Front-end com React.js](https://github.com/santiagoidu/GoStack11/tree/master/01-Frontend-com-ReactJS) |
+| 02 | [Mobile com React Native](https://github.com/santiagoidu/GoStack11/tree/master/02-Mobile-com-React-Native) Z
+| 03 | [TypeScript](https://github.com/santiagoidu/GoStack11/tree/master/03-TypeScript)|
+| 04 | [Primeiro Projeto Node](https://github.com/santiagoidu/GoStack11/tree/master/04-Primeiro-Projeto-Node)
 
 <h2 align="center">Feito com ❤️ por <a href="http://github.com/santiagoidu">Marco Tulio Santiago</a></h2
